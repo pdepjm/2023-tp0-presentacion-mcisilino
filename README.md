@@ -11,4 +11,4 @@ Hola! Soy **Mica** pero me pueden decir **Cisi** también
 - Tengo una tortuga 🫶🏼🐢
 - Trato de no hacer planes cuando hay carreras de Formula 1 porque no me gusta perdermelas 🏎
 
-![Foto](E:/Mica/UTN/2023/ParadigmasdeProgramación/presentación_pdep.jpg)
+![Foto](presentación_pdep.jpg)
